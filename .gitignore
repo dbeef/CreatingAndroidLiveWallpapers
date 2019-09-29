@@ -1,3 +1,11 @@
 AndroidStudio/.idea
 AndroidStudio/.gradle
 AndroidStudio/app/build
+
+LibGDX/.idea
+LibGDX/.gradle
+LibGDX/desktop/build
+LibGDX/android/build
+LibGDX/core/build
+
+# Unity's .gitignore is in respective subdirectory.
