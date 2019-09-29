@@ -8,4 +8,6 @@ LibGDX/desktop/build
 LibGDX/android/build
 LibGDX/core/build
 
+*.iml
+
 # Unity's .gitignore is in respective subdirectory.
