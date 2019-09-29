@@ -5,7 +5,12 @@ Every tool has its own readme in its directory.
 Clone the repository, follow the instructions and proceed to making wallpaper in technology of your choice right away!
 
 For a technical description of how are those templates created, visit my blog:
-<TODO post link>
+
+https://dbeef.lol/2019/09/29/the-offbeat-art-of-android-live-wallpapers/
+
+https://dbeef.lol/2019/09/29/creating-live-wallpaper-in-android-studio/
+https://dbeef.lol/2019/09/29/creating-live-wallpaper-in-unity/
+https://dbeef.lol/2019/09/29/creating-live-wallpaper-in-libgdx/
 
 ### Recognitions:
 
