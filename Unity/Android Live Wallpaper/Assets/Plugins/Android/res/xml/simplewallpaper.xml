@@ -4,5 +4,5 @@
 
 <wallpaper
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:settingsActivity="com.android.wallpaper.SimpleWallpaperActivity"
+    android:settingsActivity="com.android.wallpaper.UnityPlayerActivity"
     />
