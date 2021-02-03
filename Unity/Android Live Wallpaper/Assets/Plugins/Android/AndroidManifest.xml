@@ -16,7 +16,7 @@
 
 
     <service
-		android:process=":wallpaperProcess"
+	android:process=":wallpaperProcess"
         android:name=".SimpleWallpaperService"
         android:enabled="true"
         android:label="Wallpaper Example "
